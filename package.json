@@ -1,0 +1,48 @@
+{
+  "name": "react-native-get-asset",
+  "version": "1.0.0",
+  "description": "Copy asset to file system, or read asset as base64 data url",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "react-native-mime-types": "2.3.0"
+  },
+  "peerDependencies": {
+    "expo-asset": "*",
+    "react-native": "*",
+    "react-native-fs": "*"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/flyskywhy/react-native-get-asset.git"
+  },
+  "keywords": [
+    "android",
+    "asset",
+    "base64",
+    "copy",
+    "data-url",
+    "dataurl",
+    "download",
+    "expo-asset",
+    "ios",
+    "storage",
+    "react-native",
+    "react-native-fs"
+  ],
+  "author": "Li Zheng",
+  "funding": [{
+    "type": "individual",
+    "url": "https://Alipay/flyskywhy@gmail.com"
+  },{
+    "type": "individual",
+    "url": "https://EthAddress/0xd02fa2738dcbba988904b5a9ef123f7a957dbb3e"
+  }],
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/flyskywhy/react-native-get-asset/issues"
+  },
+  "homepage": "https://github.com/flyskywhy/react-native-get-asset#readme"
+}
