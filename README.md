@@ -5,7 +5,7 @@
 [![npm licence](http://img.shields.io/npm/l/react-native-get-asset.svg?style=flat-square)](https://npmjs.org/package/react-native-get-asset "View this project on npm")
 [![Platform](https://img.shields.io/badge/platform-ios%20%7C%20android%20%7C%20web-989898.svg?style=flat-square)](https://npmjs.org/package/react-native-get-asset "View this project on npm")
 
-Copy asset to file system, or read asset as base64 data url.
+Described how to bundle asset automatically at bundle time, and one function to copy asset to file system or read asset as base64 data url on Android, iOS and Web at debug or release run time.
 
 ## Install
 
