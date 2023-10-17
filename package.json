@@ -30,7 +30,8 @@
     "ios",
     "storage",
     "react-native",
-    "react-native-fs"
+    "react-native-fs",
+    "web"
   ],
   "author": "Li Zheng",
   "funding": [{
